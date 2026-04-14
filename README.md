@@ -1,2 +1,2 @@
 # homepage-design
-a basic homepage design using HTML and CSS
+A basic homepage design using HTML and CSS
